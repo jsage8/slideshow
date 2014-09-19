@@ -11,6 +11,9 @@ Sage, K. (2014). What pace is best? Assessing adults’ learning from
 slideshows and video. Journal of Educational Multimedia and Hypermedia, 
 23(1), 91-108.
 
+Sage, K., Bonacorsi, N., Izzo, S., & Quirk, A. (in revision). 
+Controlling the slides: Does clicking help adults learn?
+
 A series of magic tricks were broken down into frames. The program
 displays these frames at various paces as a slideshow. The pace can 
 be set by the experimenter. The pace options include:
